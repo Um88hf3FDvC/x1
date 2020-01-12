@@ -1,0 +1,16 @@
+{  "name"                       : "x1"
+,  "version"                    : "0.0.1"
+,  "description"                : "2020"
+,  "main"                       : "server.js"
+,  "engine"                     : { "node" : "*"
+                                  , "npm"  : "*"
+                                  }
+,  "repository"                 : { "type": "git"
+                                  , "url" : "https://github.com/Um88hf3FDvC/x1.git"
+                                  }
+,  "license"                    : "MIT"
+,  "dependencies"               : {}
+,  "bundleDependencies"         : []
+,  "scripts"                    : { "start"         : "node server.js"}
+,  "config"                     : {}
+}
