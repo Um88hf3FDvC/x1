@@ -1,7 +1,7 @@
 {  "name"                       : "x1"
 ,  "version"                    : "0.0.1"
 ,  "description"                : "2020"
-,  "main"                       : "server.js"
+,  "main"                       : "s.js"
 ,  "engine"                     : { "node" : "*"
                                   , "npm"  : "*"
                                   }
@@ -11,6 +11,6 @@
 ,  "license"                    : "MIT"
 ,  "dependencies"               : {}
 ,  "bundleDependencies"         : []
-,  "scripts"                    : { "start"         : "node server.js"}
+,  "scripts"                    : { "start"         : "node s.js"}
 ,  "config"                     : {}
 }
