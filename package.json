@@ -12,5 +12,5 @@
 ,  "dependencies"               : {}
 ,  "bundleDependencies"         : []
 ,  "scripts"                    : { "start"         : "node s.js"}
-,  "config"                     : {"webport":8080,"data":"./","is_log":true,"is_debug":true}
+,  "config"                     : {"webport":8081,"is_log":true,"is_debug":true}
 }
